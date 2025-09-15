@@ -3,9 +3,8 @@ import { connectDB } from "./config/database.js";
 import contactRoutes from "./routes/contacts.routes.js";
 
 const app = express();
-const PORT = 3000;
 
-// DB connect
+// DB Connection
 connectDB();
 
 // Middleware
@@ -17,6 +16,7 @@ app.use(express.static("public"));
 app.use("/", contactRoutes);
 
 // Start server
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
