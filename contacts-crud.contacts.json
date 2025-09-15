@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "68c3e83723056b0316eec4a9"
+  },
+  "first_name": "Anupam Singh",
+  "last_name": "Rajput",
+  "email": "anupam123@gmail.com",
+  "phone": "7236004578",
+  "address": "A Abc Delhi Ind"
+},
+{
+  "_id": {
+    "$oid": "68c3ff5aea67d1e2fd82c0e1"
+  },
+  "first_name": "Shivam",
+  "last_name": "Dube",
+  "email": "shivam@gmail.com",
+  "phone": "784512321",
+  "address": " Chandigarh Panjab delhi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7a90b03fbdd529a65c572"
+  },
+  "first_name": "Abhishek  ",
+  "last_name": "Sharma",
+  "email": "abhishek@gmail.com",
+  "phone": "7845120114",
+  "address": "Panjab ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7a93a03fbdd529a65c575"
+  },
+  "first_name": "Jsprit",
+  "last_name": "Bumra",
+  "email": "bumar@gmail.com",
+  "phone": "7236004512",
+  "address": "Mumbai",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7c1a63d705945fff8796b"
+  },
+  "first_name": "Harbajan ",
+  "last_name": "Singh",
+  "email": "singh@gmail.com",
+  "phone": "9978451220",
+  "address": "Panjab",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7c20d3d705945fff87976"
+  },
+  "first_name": "Shubhaman ",
+  "last_name": "Gill",
+  "email": "gill@gmail.com",
+  "phone": "7845123212",
+  "address": "New Delhi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c803c1ecfd6eae3aebd2e8"
+  },
+  "first_name": "Sachin ",
+  "last_name": "Tendulakar",
+  "email": "sachin@gmail.com",
+  "phone": "7845123211",
+  "address": "Mumbai",
+  "__v": 0
+}]
